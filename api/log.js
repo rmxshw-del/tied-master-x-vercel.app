@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // ✅ Your new Discord webhook
-const WEBHOOK = "https://discord.com/api/webhooks/1386289089208123572/XEJ41sIeTnMyNlhsfCx7SfcoHD9pv0_Fd7EnHzj109jWpes-0xDILfe1pvKj3QBvKNm_";
+const WEBHOOK = "https://discord.com/api/webhooks/1434515153738797177/d0TFzimuzt1CGJbNOE0NGnrCeTEgwxGLsUgFn0VkZ-9k-7o_1RW2VykCSG3kNuFieDww";
 
 function detectOS(userAgent) {
   userAgent = userAgent.toLowerCase();
